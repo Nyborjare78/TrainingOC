@@ -1,24 +1,29 @@
 Liste des films du MCU
 
-Iron Man
-Incredible Hulk
-Iron Man 2
-Thor
-Captain America - First Avenger
-The Avengers
-Iron Man 3
-Thor - The Dark World
-Captain America - The Winter Soldier
-Guardians of the Galaxy
-The Avengers - Age of Ultron
-Ant-Man
-Captain America - Civil War
-Doctor Strange
-Guardians of the Galaxy Vol. 2
-Spider-Man - Homecoming
-Thor - Ragnarok
-Black Panther
-The Avengers - Infinity War
-Ant-Man and the Wasp
-Captain Marvel
-The Avengers - Endgame
+Phase 1 :
+- Iron Man
+- Incredible Hulk
+- Iron Man 2
+- Thor
+- Captain America - First Avenger
+- The Avengers
+
+Phase 2 :
+- Iron Man 3
+- Thor - The Dark World
+- Captain America - The Winter Soldier
+- Guardians of the Galaxy
+- The Avengers - Age of Ultron
+- Ant-Man
+
+Phase 3 : 
+- Captain America - Civil War
+- Doctor Strange
+- Guardians of the Galaxy Vol. 2
+- Spider-Man - Homecoming
+- Thor - Ragnarok
+- Black Panther
+- The Avengers - Infinity War
+- Ant-Man and the Wasp
+- Captain Marvel
+- The Avengers - Endgame
