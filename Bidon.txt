@@ -1,0 +1,1 @@
+Fichier qui ne sert strictement à rien, mais qu'il fallait créer car l'exercice prévoyait la création de 2 fichiers !
